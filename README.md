@@ -1,4 +1,4 @@
-Titre du projet : Cardiofréquencemètre - Détection de de problèmes cardiaques
+                              **Cardiofréquencemètre - Détection de de problèmes cardiaques**
 
 Description : Projet étduiant avec mise en place d'un cardiofréquencemètre couplé une IA calculant les risques de problèmes cardiaques
 en fonction de ces caractéristiques physiologoque (age, Heart rate, taux de cholesterol,..)
